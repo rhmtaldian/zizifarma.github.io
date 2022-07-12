@@ -32,7 +32,7 @@
       <div class="login_wrapper">
 
         <div class="animate form login_form">
-          <img src="../image/logo.png" height="150" width="150" style="display:block; margin: auto;"  title="Logo Apotek" alt="Logo Apotek">
+          <img src="../image/logo.png" height="150" width="150" style="display:block; margin: auto;"  title="Logo Apotek" alt="ZIZI FARMA">
           <section class="login_content">
             <form action="login.php" method="post">
               <h1>Halaman Masuk</h1>
