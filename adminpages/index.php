@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="shortcut icon" type="image/png" href="http://zizifarma.com/favicon.png" />
+    <link rel="shortcut icon" type="image/ico" href="http://zizifarma.com/favicon.ico" />
 
     <title>Apotek Zizi Farma</title>
 
@@ -32,7 +32,7 @@
       <div class="login_wrapper">
 
         <div class="animate form login_form">
-          <img src="../image/logo.png" height="150" width="150" style="display:block; margin: auto;"  title="logo Apotek" alt="logo Apotek">
+          <img src="../image/logo.png" height="150" width="150" style="display:block; margin: auto;"  title="Logo Apotek" alt="Logo Apotek">
           <section class="login_content">
             <form action="login.php" method="post">
               <h1>Halaman Masuk</h1>
