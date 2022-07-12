@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="shortcut icon" type="image/ico" href="http://zizifarma.com/favicon.ico">
+    <!--<link rel="shortcut icon" type="image/ico" href="http://zizifarma.com/favicon.ico"> -->
 
     <title>Apotek Zizi Farma</title>
 
@@ -24,7 +24,7 @@
   </head>
   
   <body class="login">
-tes
+
     <div>
       <a class="hiddenanchor" id="signup"></a>
       <a class="hiddenanchor" id="signin"></a>
